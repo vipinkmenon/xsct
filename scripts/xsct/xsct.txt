@@ -1,0 +1,2 @@
+dow -data lena_color.bin 0x130A70
+mrd -size b -bin -file out.bin 0x120320 65536
